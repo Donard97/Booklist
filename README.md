@@ -23,7 +23,7 @@
 
 To get a local copy up and running follow these simple example steps.
 
-Clone the repo with git clone https://github.com/ahzia/Booklist
+Clone the repo with git clone https://github.com/Donard97/Booklist
 
 Open index.html using a web server
 
